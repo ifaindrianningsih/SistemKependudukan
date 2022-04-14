@@ -549,7 +549,7 @@
 					include "admin/lahir/del_lahir.php";
 					break;
 
-				//mendu
+				//meninggal dunia
 				case 'data-mendu':
 					include "admin/mendu/data_mendu.php";
 					break;
